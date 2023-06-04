@@ -5,6 +5,7 @@ __pycache__/
 
 config.py
 billboard_data/
+spotify_hit_data/
 
 # C extensions
 *.so
