@@ -1,0 +1,18 @@
+Dataset	              		Format	Discription
+AF_Catalog	        	CSV	List of Arcade Fire's discography and Spotify streaming figures (daily & total) per song.
+ArtistActor_Export		CSV	List of acting credits and prject release dates for several artists.
+DP_Catalog	       		CSV	List of Daft Punk's discography and Spotify streaming figures (daily & total) per song.
+HS_TimeSeries	        	CSV	Time series data of Google trends interest in Justin Timberlake.
+JT_Catalog	        	CSV	List of Justin Timberlake's discography and Spotify streaming figures (daily & total) per song.
+LG_Catalog	        	CSV	List of Lady Gaga's discography and Spotify streaming figures (daily & total) per song.
+LG_Hits	                	CSV	List of Lady Gaga songs with over 200 million total Spotify streams.
+Soundtrack_Influence		CSV	Percentages of soundtrack contibution to artist streaming success.
+Top 5 Selling Albums by Year	Web	Webscraped from Billboard's Annual Lists of the best selling albums annually
+best_album_covers		CSV	Converted from a Billboard's article for best 50 album covers 
+dataset-of-10s			CSV	List of songs from the 2010s with their spotify attributes and a target variable of whether or not they were hits
+ticketdata	        	xlsx	List of artists with the most Tickets Sold, Shows and Revenue in 2022
+vinyldata	        	CSV	Table of the retail value of vinyl in the U.S. from 1999-2022
+musicdata	        	CSV	Table showing value of differnt music formats from 1973-2020
+album_genre2010-23      	CSV 	Table of album genres released from 2010-2023. Data pulled from Discogs.com
+spotify_top_charts_22   	CSV 	Table provides list of all songs that have appeared in a weekly Spotify top chart in 2022.
+Spotify API Data    		API 	Spotify API was used to pull album release year and Genre using the Spotify track id and artist id
