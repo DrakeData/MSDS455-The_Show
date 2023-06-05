@@ -1,0 +1,210 @@
+genre,count,year
+Rock,55105,2010
+Electronic,23524,2010
+Pop,18516,2010
+Folk/World/Country,14399,2010
+Jazz,10493,2010
+Hip Hop,8091,2010
+Classical,5526,2010
+Funk/Soul,4620,2010
+Latin,3262,2010
+Blues,2839,2010
+Stage & Screen,2555,2010
+Reggae,1656,2010
+Non-Music,1507,2010
+Children's,633,2010
+Brass & Military,255,2010
+Rock,65839,2011
+Electronic,30816,2011
+Pop,21208,2011
+Folk/World/Country,16203,2011
+Jazz,11582,2011
+Hip Hop,9285,2011
+Classical,6257,2011
+Funk/Soul,4987,2011
+Blues,3706,2011
+Latin,3400,2011
+Stage & Screen,2982,2011
+Reggae,1894,2011
+Non-Music,1715,2011
+Children's,666,2011
+Brass & Military,273,2011
+Rock,68131,2012
+Electronic,34334,2012
+Pop,22288,2012
+Folk/World/Country,16273,2012
+Jazz,12080,2012
+Hip Hop,9687,2012
+Classical,6235,2012
+Funk/Soul,5581,2012
+Blues,3813,2012
+Latin,3441,2012
+Stage & Screen,2998,2012
+Reggae,1892,2012
+Non-Music,1849,2012
+Children's,626,2012
+Brass & Military,273,2012
+Rock,71290,2013
+Electronic,35136,2013
+Pop,22096,2013
+Folk/World/Country,16204,2013
+Jazz,12690,2013
+Hip Hop,9825,2013
+Classical,6161,2013
+Funk/Soul,5652,2013
+Blues,3983,2013
+Latin,3157,2013
+Stage & Screen,2927,2013
+Reggae,1848,2013
+Non-Music,1702,2013
+Children's,585,2013
+Brass & Military,274,2013
+Rock,76241,2014
+Electronic,38261,2014
+Pop,22749,2014
+Folk/World/Country,16802,2014
+Jazz,13692,2014
+Hip Hop,10351,2014
+Funk/Soul,6175,2014
+Classical,6085,2014
+Blues,4200,2014
+Stage & Screen,3504,2014
+Latin,3461,2014
+Reggae,2000,2014
+Non-Music,1890,2014
+Children's,548,2014
+Brass & Military,230,2014
+Rock,79040,2015
+Electronic,41617,2015
+Pop,22780,2015
+Folk/World/Country,16852,2015
+Jazz,13648,2015
+Hip Hop,11164,2015
+Classical,6298,2015
+Funk/Soul,5981,2015
+Blues,4228,2015
+Stage & Screen,3566,2015
+Latin,3258,2015
+Reggae,2150,2015
+Non-Music,2078,2015
+Children's,580,2015
+Brass & Military,206,2015
+Rock,81352,2016
+Electronic,44588,2016
+Pop,22540,2016
+Folk/World/Country,16785,2016
+Jazz,13870,2016
+Hip Hop,11546,2016
+Classical,6766,2016
+Funk/Soul,6426,2016
+Blues,4335,2016
+Stage & Screen,3820,2016
+Latin,3057,2016
+Non-Music,2618,2016
+Reggae,1964,2016
+Children's,507,2016
+Brass & Military,241,2016
+Rock,80444,2017
+Electronic,43789,2017
+Pop,21505,2017
+Folk/World/Country,16531,2017
+Jazz,14183,2017
+Hip Hop,11936,2017
+Classical,7689,2017
+Funk/Soul,5772,2017
+Blues,4195,2017
+Stage & Screen,4178,2017
+Latin,3355,2017
+Non-Music,2385,2017
+Reggae,1940,2017
+Children's,508,2017
+Brass & Military,203,2017
+Rock,16876,2018
+Electronic,12078,2018
+Folk/World/Country,5856,2018
+Funk/Soul,3079,2018
+Hip Hop,2667,2018
+Jazz,1905,2018
+Latin,1674,2018
+Stage & Screen,1358,2018
+Blues,883,2018
+Classical,694,2018
+Reggae,617,2018
+Children's,313,2018
+Non-Music,309,2018
+Brass & Military,41,2018
+Rock,74634,2019
+Electronic,43729,2019
+Pop,18920,2019
+Folk/World/Country,13790,2019
+Hip Hop,12251,2019
+Jazz,12196,2019
+Classical,6401,2019
+Funk/Soul,5710,2019
+Stage & Screen,3429,2019
+Blues,3370,2019
+Latin,2546,2019
+Non-Music,2390,2019
+Reggae,1667,2019
+Children's,350,2019
+Brass & Military,170,2019
+Rock,70476,2020
+Electronic,47085,2020
+Pop,17768,2020
+Hip Hop,12805,2020
+Folk/World/Country,12664,2020
+Jazz,11620,2020
+Classical,6196,2020
+Funk/Soul,4966,2020
+Stage & Screen,2846,2020
+Blues,2790,2020
+Non-Music,2224,2020
+Latin,1812,2020
+Reggae,1421,2020
+Children's,295,2020
+Brass & Military,156,2020
+Rock,70655,2021
+Electronic,42956,2021
+Pop,17580,2021
+Hip Hop,11965,2021
+Folk/World/Country,11719,2021
+Jazz,10975,2021
+Classical,5264,2021
+Funk/Soul,4967,2021
+Stage & Screen,3112,2021
+Blues,2798,2021
+Non-Music,2388,2021
+Latin,1902,2021
+Reggae,1245,2021
+Children's,298,2021
+Brass & Military,89,2021
+Rock,66586,2022
+Electronic,36179,2022
+Pop,15529,2022
+Hip Hop,10199,2022
+Folk/World/Country,9753,2022
+Jazz,9219,2022
+Funk/Soul,4597,2022
+Classical,4053,2022
+Stage & Screen,2775,2022
+Blues,2163,2022
+Non-Music,2064,2022
+Latin,1652,2022
+Reggae,1130,2022
+Children's,224,2022
+Brass & Military,79,2022
+Rock,21058,2023
+Electronic,11192,2023
+Pop,4875,2023
+Hip Hop,2981,2023
+Folk/World/Country,2741,2023
+Jazz,2654,2023
+Funk/Soul,1449,2023
+Classical,1062,2023
+Stage & Screen,830,2023
+Non-Music,613,2023
+Blues,586,2023
+Latin,447,2023
+Reggae,421,2023
+Children's,51,2023
+Brass & Military,15,2023
